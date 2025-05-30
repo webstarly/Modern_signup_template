@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 //import { SectionContextProvider } from "../src/context/SectionContext";
 
 import Index from "./pages/Index";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 
 function App() {
 
